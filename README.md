@@ -1,4 +1,4 @@
-# 💫 About Me:
+## Hi, I'm Resky Aditiya Datu Adam
 Saya adalah seorang mahasiswa dari Universitas Ichsan Gorontalo jurusan teknik informatika dengan passion besar untuk bisa berkarier di bidang Web Development, Sofware Engineer & IT Support.
 
 
